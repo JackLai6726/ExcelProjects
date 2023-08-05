@@ -4,7 +4,7 @@ Some of the project I've done in Excel
 ## [Coffee Sales Interactive Dashboard](https://github.com/JackLai6726/ExcelProjects/blob/main/CoffeeSalesDashboard.xlsx)
 Built an interactive dashboard for data visualisation of coffee sales data ☕
 
-![Screenshot](https://ibb.co/H4HVLbS)
+![Screenshot]([https://ibb.co/H4HVLbS](https://i.ibb.co/r0wmKzj/gh.png))
 
 - Used XLOOKUP to match customer name, email, and country
 - INDEX MATCH for coffee type, roast type, size, unit price
