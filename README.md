@@ -21,3 +21,11 @@ Built an interactive dashboard for data visualisation of coffee sales data ☕
 - Create Top 5 customers bar chart and format it
 - Connect all the elements together
 - Used created elements to build an interactive sales dashboard
+
+## [Business Dashboard](https://github.com/JackLai6726/ExcelProjects/blob/main/Business%20Dashboard.xlsx)
+Built an interactive KPI dashboard
+
+![Screenshot](https://github.com/JackLai6726/Files/blob/main/gh1.png?raw=true)
+
+- Pivot tables and Data Analysis Expressions (DAX)
+- Conditional formatting of Profit % (Traffic light icon colors)
