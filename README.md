@@ -36,3 +36,8 @@ A basic financial model using the 3 main financial statements
 ![Screenshot](https://github.com/JackLai6726/Files/blob/main/gh5.png?raw=true)
 
 - Bare bones financial model that can be used as a base for further analysis such as discounted cash flow etc.
+
+## [Discounted Cash Flow Model](https://github.com/JackLai6726/ExcelProjects/blob/main/DCF%20Modeling.xlsx)
+A basic discounted cash flow model with many assumptions to showcase how a DCF is calculated
+
+![Screenshot](https://github.com/JackLai6726/Files/blob/main/ghdcf.png?raw=true)
